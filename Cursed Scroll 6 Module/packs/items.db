@@ -1,0 +1,3 @@
+{"_id": "heart_sidar", "name": "Heart of Sidar", "type": "equipment", "system": {"description": "Famous garnet worth 2000 gp from The Royal Jeweler."}}
+{"_id": "mirror_mischief", "name": "Mirror of Mischief", "type": "equipment", "system": {"description": "Mysterious magical mirror held by Zameek. Nature uncertain."}}
+{"_id": "doom_book", "name": "Doom Book", "type": "equipment", "system": {"description": "Esoteric law tome granting automatic success except on natural 1."}}

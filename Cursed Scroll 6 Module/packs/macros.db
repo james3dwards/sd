@@ -1,0 +1,4 @@
+{"_id": "m_random_enc", "name": "Random Encounter", "type": "script", "command": "// roll a random encounter placeholder"}
+{"_id": "m_swiftly", "name": "Swiftly Roller", "type": "script", "command": "// swiftly roller placeholder"}
+{"_id": "m_sewer", "name": "Sewer Finder", "type": "script", "command": "// sewer finder placeholder"}
+{"_id": "m_carousing", "name": "Carousing Runner", "type": "script", "command": "// carousing runner placeholder"}

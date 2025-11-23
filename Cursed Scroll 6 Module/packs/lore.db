@@ -1,5 +1,0 @@
-{"_id": "city_overview", "name": "City Overview", "type": "JournalEntry", "pages": [{"name": "Main", "type": "text", "text": {"content": "Overview placeholder from City of Masks."}}]}
-{"_id": "districts", "name": "Districts", "type": "JournalEntry", "pages": [{"name": "Main", "type": "text", "text": {"content": "Districts placeholder."}}]}
-{"_id": "factions", "name": "Factions", "type": "JournalEntry", "pages": [{"name": "Main", "type": "text", "text": {"content": "Factions placeholder."}}]}
-{"_id": "holidays", "name": "Holidays", "type": "JournalEntry", "pages": [{"name": "Main", "type": "text", "text": {"content": "Holidays placeholder."}}]}
-{"_id": "handouts", "name": "Handouts", "type": "JournalEntry", "pages": [{"name": "Main", "type": "text", "text": {"content": "Handouts placeholder."}}]}
